@@ -2,7 +2,9 @@
 
 ## Test your React Components with Nightwatch and Testing Library
 
-Step-by-step tutorial available at: https://blog.nightwatchjs.org/  
+More details on the [@nightwatch/testing-library](https://github.com/nightwatchjs/nightwatch-testing-library) repo.
+
+Step-by-step tutorial available at: https://nightwatchjs.org/blog/test-your-react-components-with-nightwatch-and-testing-library/
 
 The text covers how to:
 
